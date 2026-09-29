@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/processor/resourcedetectionprocessor
 
-go 1.26.0
+go 1.26.7
 
 require (
 	cloud.google.com/go/compute v1.69.0
@@ -14,7 +14,8 @@ require (
 	github.com/digitalocean/go-metadata v0.0.0-20250129100319-e3650a3df44b
 	github.com/google/go-cmp v0.7.0
 	github.com/google/uuid v1.6.0
-	github.com/hashicorp/consul/api v1.34.4
+	github.com/hashicorp/consul/api v1.34.5
+	github.com/hashicorp/consul/api/v2 v2.0.0
 	github.com/linode/go-metadata v0.3.1
 	github.com/moby/moby/api v1.56.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/aws/ecsutil v0.161.0
