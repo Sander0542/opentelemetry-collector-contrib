@@ -8,10 +8,10 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.20.5
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.113.1
 	github.com/goccy/go-json v0.10.6
-	github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/xstreamencoding v0.161.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/xstreamencoding v0.162.0
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/collector/client v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/component v1.67.1-0.20260928015043-9857cff6c018

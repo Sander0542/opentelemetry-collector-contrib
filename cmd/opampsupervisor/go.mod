@@ -5,10 +5,10 @@ go 1.26.0
 require (
 	github.com/google/uuid v1.6.0
 	github.com/open-telemetry/opamp-go v0.24.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/extension/basicauthextension v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/extension/bearertokenauthextension v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/extension/oauth2clientauthextension v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/testbed v0.161.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/extension/basicauthextension v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/extension/bearertokenauthextension v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/extension/oauth2clientauthextension v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/testbed v0.162.0
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/collector/component v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/component/componenttest v0.161.1-0.20260928015043-9857cff6c018

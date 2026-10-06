@@ -11,8 +11,8 @@ require (
 	github.com/DataDog/datadog-agent/pkg/serializer v0.83.2
 	github.com/DataDog/datadog-agent/pkg/tagset v0.83.2
 	github.com/google/uuid v1.6.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.161.0
-	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/datadog v0.161.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.162.0
+	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/datadog v0.162.0
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/collector/component v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/component/componentstatus v0.161.1-0.20260928015043-9857cff6c018
