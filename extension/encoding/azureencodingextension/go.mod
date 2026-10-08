@@ -8,7 +8,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/extension/encoding v0.161.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.161.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.161.0
-	github.com/relvacode/iso8601 v1.8.0
+	github.com/relvacode/iso8601 v1.8.2
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/collector/component v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/component/componenttest v0.161.1-0.20260928015043-9857cff6c018
