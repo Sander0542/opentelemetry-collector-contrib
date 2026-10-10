@@ -20,7 +20,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.67.1-0.20260928015043-9857cff6c018
 	go.uber.org/goleak v1.3.0
 	go.uber.org/zap v1.28.0
-	golang.org/x/sync v0.23.0
+	golang.org/x/sync v0.24.0
 	golang.org/x/text v0.42.0
 )
 
