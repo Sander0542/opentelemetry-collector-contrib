@@ -8,9 +8,9 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.161.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/prometheus v0.161.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/prometheusreceiver v0.161.0
-	github.com/prometheus/client_golang v1.24.1
+	github.com/prometheus/client_golang v1.25.0
 	github.com/prometheus/client_model v0.6.3
-	github.com/prometheus/common v0.71.0
+	github.com/prometheus/common v0.72.0
 	github.com/prometheus/otlptranslator v1.0.0
 	github.com/prometheus/prometheus v0.314.0
 	github.com/stretchr/testify v1.12.1
@@ -166,7 +166,7 @@ require (
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/julienschmidt/httprouter v1.3.0 // indirect
-	github.com/klauspost/compress v1.20.0 // indirect
+	github.com/klauspost/compress v1.20.1 // indirect
 	github.com/knadh/koanf/maps v0.1.3 // indirect
 	github.com/knadh/koanf/providers/confmap v1.0.1 // indirect
 	github.com/knadh/koanf/v2 v2.3.6 // indirect
@@ -207,7 +207,7 @@ require (
 	github.com/prometheus/client_golang/exp v0.0.0-20260724065723-ecdb8254ba61 // indirect
 	github.com/prometheus/common/assets v0.2.0 // indirect
 	github.com/prometheus/exporter-toolkit v0.19.0 // indirect
-	github.com/prometheus/procfs v0.21.1 // indirect
+	github.com/prometheus/procfs v0.22.0 // indirect
 	github.com/prometheus/sigv4 v0.4.1 // indirect
 	github.com/puzpuzpuz/xsync/v4 v4.5.0 // indirect
 	github.com/rs/cors v1.11.1 // indirect
@@ -260,7 +260,7 @@ require (
 	golang.org/x/exp v0.0.0-20260727155853-b88d891fe743 // indirect
 	golang.org/x/mod v0.41.0 // indirect
 	golang.org/x/net v0.59.0 // indirect
-	golang.org/x/oauth2 v0.36.0 // indirect
+	golang.org/x/oauth2 v0.37.0 // indirect
 	golang.org/x/sync v0.23.0 // indirect
 	golang.org/x/sys v0.48.0 // indirect
 	golang.org/x/term v0.46.0 // indirect
