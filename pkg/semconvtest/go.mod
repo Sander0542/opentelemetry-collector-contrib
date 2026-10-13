@@ -12,7 +12,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/receiver v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/receiver/receivertest v0.161.1-0.20260928015043-9857cff6c018
-	golang.org/x/mod v0.41.0
+	golang.org/x/mod v0.42.0
 	google.golang.org/grpc v1.83.2
 )
 
