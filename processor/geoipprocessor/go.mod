@@ -7,7 +7,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/golden v0.161.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/ottl v0.161.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/pdatatest v0.161.0
-	github.com/oschwald/geoip2-golang/v2 v2.4.0
+	github.com/oschwald/geoip2-golang/v2 v2.5.0
 	github.com/stretchr/testify v1.12.1
 	go.opentelemetry.io/collector/component v1.67.1-0.20260928015043-9857cff6c018
 	go.opentelemetry.io/collector/component/componenttest v0.161.1-0.20260928015043-9857cff6c018
@@ -56,7 +56,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/oschwald/maxminddb-golang v1.13.0 // indirect
-	github.com/oschwald/maxminddb-golang/v2 v2.6.0 // indirect
+	github.com/oschwald/maxminddb-golang/v2 v2.8.0 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/prometheus/client_golang v1.24.1 // indirect
 	github.com/prometheus/client_model v0.6.3 // indirect
@@ -127,7 +127,7 @@ require (
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925 // indirect
 	golang.org/x/exp v0.0.0-20260727155853-b88d891fe743 // indirect
 	golang.org/x/net v0.59.0 // indirect
-	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/sys v0.49.0 // indirect
 	golang.org/x/text v0.42.0 // indirect
 	gonum.org/v1/gonum v0.17.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260803160001-6ac0973c030d // indirect
